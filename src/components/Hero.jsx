@@ -6,7 +6,7 @@ import {
 } from "react-icons/fa";
 
 import profile from "../data/profile";
-import profileImage from "../assets/profile.png";
+import profileImage from "../assets/poto_portfolio.jpeg";
 
 function Hero() {
   return (
