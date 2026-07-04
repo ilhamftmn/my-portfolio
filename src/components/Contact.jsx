@@ -17,7 +17,7 @@ function Contact() {
         </h2>
 
         <p className="text-slate-400 mt-8 leading-8">
-          Saya terbuka untuk peluang kerja, kolaborasi maupun diskusi mengenai Quality Assurance dan Software Testing.
+          Saya terbuka untuk peluang kerja, kolaborasi maupun diskusi mengenai Quality Assurance.
         </p>
 
         <div className="mt-10">

@@ -73,14 +73,14 @@ function Hero() {
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4 mt-14 max-w-xl">
 
             <div className="rounded-2xl border border-slate-800 bg-slate-900/60 p-4 text-center hover:border-cyan-400 transition-all duration-300">
-              <h3 className="text-4xl font-bold text-cyan-400">6+</h3>
+              <h3 className="text-4xl font-bold text-cyan-400">6</h3>
               <p className="text-slate-400 mt-2 text-sm">
                 Months Experience
               </p>
             </div>
 
             <div className="rounded-2xl border border-slate-800 bg-slate-900/60 p-4 text-center hover:border-cyan-400 transition-all duration-300">
-              <h3 className="text-4xl font-bold text-cyan-400">10+</h3>
+              <h3 className="text-4xl font-bold text-cyan-400">2</h3>
               <p className="text-slate-400 mt-2 text-sm">
                 Projects Tested
               </p>

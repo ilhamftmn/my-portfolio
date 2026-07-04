@@ -6,19 +6,7 @@ function Footer() {
         <footer className="bg-slate-950 border-t border-slate-800 py-10">
             <div className="max-w-6xl mx-auto px-6">
 
-                <div className="flex flex-col md:flex-row justify-between items-center gap-6">
-
-                    <div>
-
-                        <h2 className="text-2xl font-bold text-white">
-                            {profile.name}
-                        </h2>
-
-                        <p className="text-slate-400 mt-2">
-                            {profile.role}
-                        </p>
-
-                    </div>
+                <div className="flex flex-col md:flex-row justify-center items-center gap-6">
 
                     <div className="flex gap-6 text-2xl text-slate-400">
 
